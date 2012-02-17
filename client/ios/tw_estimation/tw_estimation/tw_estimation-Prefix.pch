@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'tw_estimation' target in the 'tw_estimation' project
+//
+
+#ifdef __OBJC__
+  #import <UIKit/UIKit.h>
+#endif
